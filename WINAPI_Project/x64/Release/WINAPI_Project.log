@@ -1,0 +1,11 @@
+﻿  Main.c
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(6,34): warning C4244: return: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(16,42): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(17,42): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(23,32): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(24,32): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\FileProc.h(102,59): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\FileProc.h(127,54): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\FileProc.h(175,53): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ main.
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\MainProject\x64\Release\WINAPI_Project.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

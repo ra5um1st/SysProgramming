@@ -1,0 +1,7 @@
+﻿  Source.c
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\MainProject\Source.c(43,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\MainProject\Source.c(44,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\MainProject\Source.c(45,48): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\MainProject\Source.c(72,131): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\MainProject\Source.c(81,103): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  MainProject.vcxproj -> C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\MainProject\Debug\MainProject.exe

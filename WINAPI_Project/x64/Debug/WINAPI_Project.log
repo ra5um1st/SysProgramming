@@ -1,0 +1,21 @@
+﻿  Main.c
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(6,34): warning C4244: return: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(16,42): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(17,42): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(23,32): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\SquareEq.h(24,32): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\FileProc.h(102,59): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\FileProc.h(127,54): warning C4244: =: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\FileProc.h(175,50): warning C4267: функция: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(28,1): warning C4113: "FARPROC" отличается в списках параметров от "ReadPersonsFromFile"
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(28,1): warning C4047: инициализация: "ReadPersonsFromFile" отличается по уровням косвенного обращения от "FARPROC"
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(33,1): warning C4113: "FARPROC" отличается в списках параметров от "Person **(__cdecl *)(const Person **,const UINT,UINT *,PersonsSearchParameter,const BOOL (__cdecl *)(LPTSTR))"
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(33,1): warning C4047: инициализация: "Person **(__cdecl *)(const Person **,const UINT,UINT *,PersonsSearchParameter,const BOOL (__cdecl *)(LPTSTR))" отличается по уровням косвенного обращения от "FARPROC"
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(34,1): warning C4113: "FARPROC" отличается в списках параметров от "BOOL (__cdecl *)(const LPCTSTR,const Person **,const UINT)"
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(34,1): warning C4133: инициализация: несовместимые типы - из "FARPROC" в "BOOL (__cdecl *)(const LPCTSTR,const Person **,const UINT)"
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(36,1): warning C4113: "FARPROC" отличается в списках параметров от "FLOAT (__cdecl *)(const Person **,const UINT)"
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(36,1): warning C4133: инициализация: несовместимые типы - из "FARPROC" в "FLOAT (__cdecl *)(const Person **,const UINT)"
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\FileProc.h(26): warning C4716: GetFloatLenght: должна возвращать значение
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\FileProc.h(185): warning C4715: WriteSquareEqToFile: значение возвращается не при всех путях выполнения
+C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\WINAPI_Project\Main.c(13): warning C4715: ByName: значение возвращается не при всех путях выполнения
+  WINAPI_Project.vcxproj -> C:\Users\Alex\Desktop\Работы\4 курс\Системное программирование\MainProject\x64\Debug\WINAPI_Project.exe
